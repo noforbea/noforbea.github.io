@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noforbea.github.io/sitemap.html.gz
+Sitemap: https://noforbea.github.io/app/sitemap.html.gz
+Sitemap: https://noforbea.github.io/assets/sitemap.html.gz
+Sitemap: https://noforbea.github.io/css/sitemap.html.gz
+Sitemap: https://noforbea.github.io/includes/sitemap.html.gz
+Sitemap: https://noforbea.github.io/item/sitemap.html.gz
+Sitemap: https://noforbea.github.io/src/sitemap.html.gz
